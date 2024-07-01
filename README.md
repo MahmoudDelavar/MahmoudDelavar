@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">Frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmouddelavar" alt="mahmouddelavar" /></a> </p>
 
+<h3>my projects</h3>
 - Glasses store [farasoo](https://www.farasoooptic.ir/)
 
 - Clothing store [winkbride](https://winkbride.ir/)
