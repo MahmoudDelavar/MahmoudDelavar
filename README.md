@@ -47,5 +47,5 @@
 </div>
 
 <h3 align="left">My Projects:</h3>
-https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/8aed630f-d172-4c39-8204-f4b8e21ab961
 
+https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/5c50f6ad-aea6-42b6-b5d6-e8b26f88b1d1
