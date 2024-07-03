@@ -17,7 +17,7 @@
     <img src='https://img.icons8.com/?size=100&id=108784&format=png&color=000000' alt="js" width="60" height="60"/>
     <img src='https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000' alt="ts" width="60" height="60"/>
     <img src='https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000' alt="react" width="60" height="60"/>
-    <img src='https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail-1.webp' alt="nextjs" width="60" height="60"/>
+    <img src='https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp' alt="nextjs" width="60" height="60"/>
      <img src='https://media.licdn.com/dms/image/C4D12AQHYlC7hZbffow/article-cover_image-shrink_720_1280/0/1603963738731?e=2147483647&v=beta&t=j9fBZGWKnElHOg1Uwx0Gpg69Xx1XY2iyhy5_gQOcrRQ' width="90" 
      height='60' alt='NATIVE'/>
     <img src='https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png' width="60" height='60' alt='formik'/>
