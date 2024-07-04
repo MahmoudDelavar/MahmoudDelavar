@@ -48,9 +48,7 @@
 
  <h1 align="center">My Web Projects:</h1>
  
-  <a href='https://winkbride.ir' target="_blank" rel="noreferrer" ><h3 align='left'>winkbride - clothing shop </h3> </a>
-
- 
+  <a href='https://winkbride.ir' target="_blank" rel="noreferrer" >winkbride - clothing shop</a>
 
   https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/1e1a98ce-37bc-4c25-b672-f984c42bd4bb
 
