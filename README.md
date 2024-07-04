@@ -46,26 +46,21 @@
 
 </div>
 
- <h1 align="center">My Web Projects:</h1>
+ <h2 align="center">My Web Projects:</h2>
  
-  <a href='https://winkbride.ir' target="_blank" rel="noreferrer" >winkbride - clothing shop</a>
+  <a href='https://winkbride.ir' target="_blank" rel="noreferrer" ><h3 align='left'>winkbride - clothing shop </a>
 
   https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/1e1a98ce-37bc-4c25-b672-f984c42bd4bb
 
- <h3 align='center'>brics trade </h3>
- <p align='center'>Digital currency pre-sale</p> 
- <a href='https://bricstrade.net' target="_blank" rel="noreferrer" >visit brics </a>
+ <a href='https://bricstrade.net' target="_blank" rel="noreferrer" > brics trade - Digital currency pre-sale</a>
  
  https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/5c50f6ad-aea6-42b6-b5d6-e8b26f88b1d1
 
- <h3 align='center'>Faraso Optic </h3>
- <p align='center'>Glasses store</p> 
- <a href='https://www.farasoooptic.ir' target="_blank" rel="noreferrer" >visit farasoo </a>
- 
-https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/6ba90a75-f410-4918-a7be-826ed9043335
 
-<h3 align='center'> IT Paydar </h3>
-<p align='center'> ِdigitak marketing website</p> 
- <a href='https://www.itpaydar.com' target="_blank" rel="noreferrer" >visit IT Paydar  </a>
+ <a href='https://www.farasoooptic.ir' target="_blank" rel="noreferrer" >Faraso Optic - Glasses store </a>
  
-https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/b569ae1c-b08d-4a9a-b6f4-3c867966ecca
+ https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/6ba90a75-f410-4918-a7be-826ed9043335
+
+ <a href='https://www.itpaydar.com' target="_blank" rel="noreferrer" >IT Paydar - digitak marketing website </a>
+ 
+ https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/b569ae1c-b08d-4a9a-b6f4-3c867966ecca
