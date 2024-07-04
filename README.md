@@ -46,13 +46,12 @@
 
 </div>
 
-<h3 align="left">My Projects:</h3>
+<h3 align="left">My Web Projects:</h3>
 
 
-<a href='https://winkbride.ir' target='blanck>'>visit winkbride </a>
+<a href='https://winkbride.ir' target="_blank" rel="noreferrer" >visit winkbride </a>
 
- 
- https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/1e1a98ce-37bc-4c25-b672-f984c42bd4bb
+  https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/1e1a98ce-37bc-4c25-b672-f984c42bd4bb
 
  <h3 align='center'>brics trade </h3>
  
