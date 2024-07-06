@@ -47,6 +47,10 @@
 </div>
 
  <h2 align="center">Reac Native app demo:</h2>
+ <p>  ESP32 محاسبات ریاضی  و ارسال عدد به ماژول   </p>
+ 
+ https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/775fc36c-587a-4f37-8072-bc8145538d65
+
  
  <h2 align="center">My Web Projects:</h2>
  
