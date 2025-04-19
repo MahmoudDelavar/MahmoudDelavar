@@ -5,123 +5,98 @@
 
 - 📫 How to reach me **mahmoud.d.7@gmail.com**
 
-<h2 align='left'>🧠 Core Skills</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://img.icons8.com/?size=100&id=108784&format=png&color=000000' width="60" />
-  <figcaption>JavaScript</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000' width="60" />
-  <figcaption>TypeScript</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://img.icons8.com/?size=100&id=40669&format=png&color=000000' width="60" />
-  <figcaption>Functional Programming</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://cdn.worldvectorlogo.com/logos/javascript.svg' width="60" />
-  <figcaption>Design Patterns</figcaption>
-</figure>
+## 🧠 Core Skills
 
-<h2 align='left'>⚛️ Frontend Frameworks</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000' width="60" />
-  <figcaption>React</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp' width="60" />
-  <figcaption>Next.js</figcaption>
-</figure>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" alt="JavaScript" />
+    <figcaption>JavaScript</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="60" alt="TypeScript" />
+    <figcaption>TypeScript</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="60" alt="Functional Programming" />
+    <figcaption>Functional Programming</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="60" alt="Design Patterns" />
+    <figcaption>Design Patterns</figcaption>
+  </figure>
+</div>
 
-<h2 align='left'>📦 State Management</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000' width="60" />
-  <figcaption>Redux</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo.png' width="60" />
-  <figcaption>Redux Toolkit</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png' width="100" />
-  <figcaption>Zustand</figcaption>
-</figure>
+---
 
-<h2 align='left'>🔗 Data Fetching</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png' width="60" />
-  <figcaption>React Query</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://swr-card.vercel.app/' width="60" />
-  <figcaption>SWR</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://axios-http.com/assets/logo.svg' width="60" />
-  <figcaption>Axios</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://avatars.githubusercontent.com/u/15642823?s=280&v=4' width="60" />
-  <figcaption>OpenAPI Fetch</figcaption>
-</figure>
+## ⚛️ Frontend Frameworks
 
-<h2 align='left'>📝 Forms</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png' width="60" />
-  <figcaption>Formik</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://react-hook-form.com/images/logo.png' width="60" />
-  <figcaption>React Hook Form</figcaption>
-</figure>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="60" alt="React" />
+    <figcaption>React</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp" width="60" alt="Next.js" />
+    <figcaption>Next.js</figcaption>
+  </figure>
+</div>
 
-<h2 align='left'>🧪 Testing</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://jestjs.io/img/opengraph.png' width="60" />
-  <figcaption>Jest</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://avatars.githubusercontent.com/u/2458726?s=280&v=4' width="60" />
-  <figcaption>Enzyme</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://playwright.dev/img/playwright-logo.svg' width="60" />
-  <figcaption>Playwright</figcaption>
-</figure>
+---
 
-<h2 align='left'>🌍 Localization</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://seeklogo.com/images/I/i18next-logo-15D2085D42-seeklogo.com.png' width="60" />
-  <figcaption>i18next</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://avatars.githubusercontent.com/u/79911847?s=280&v=4' width="60" />
-  <figcaption>Tolgee</figcaption>
-</figure>
+## 📦 State Management
 
-<h2 align='left'>🎨 UI & Design Tools</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/logo.png' width="60" />
-  <figcaption>Shadcn UI</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://avatars.githubusercontent.com/u/75042463?s=200&v=4' width="60" />
-  <figcaption>Radix UI</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000' width="60" />
-  <figcaption>Tailwind CSS</figcaption>
-</figure>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width="60" alt="Redux" />
+    <figcaption>Redux</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo.png" width="60" alt="Redux Toolkit" />
+    <figcaption>Redux Toolkit</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png" width="60" alt="Zustand" />
+    <figcaption>Zustand</figcaption>
+  </figure>
+</div>
 
-<h2 align='left'>📚 Docs & Admin Tools</h2>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://static-00.iconduck.com/assets.00/storybook-icon-2048x2048-vvyr1tcx.png' width="60" />
-  <figcaption>Storybook</figcaption>
-</figure>
-<figure style="display:inline-block; text-align:center; margin:10px;">
-  <img src='https://refine.dev/img/refine_favicon.svg' width="60" />
-  <figcaption>Refine</figcaption>
-</figure>
+---
+
+## 🔗 Data Fetching
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="60" alt="React Query" />
+    <figcaption>React Query</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://raw.githubusercontent.com/vercel/swr/main/logo.svg" width="60" alt="SWR" />
+    <figcaption>SWR</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://axios-http.com/assets/logo.svg" width="60" alt="Axios" />
+    <figcaption>Axios</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://avatars.githubusercontent.com/u/15642823?s=280&v=4" width="60" alt="OpenAPI Fetch" />
+    <figcaption>OpenAPI Fetch</figcaption>
+  </figure>
+</div>
+
+---
+
+## 📝 Form Management
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="60" alt="Formik" />
+    <figcaption>Formik</figcaption>
+  </figure>
+  <figure style="text-align: center; width: 80px;">
+    <img src="https://react-hook-form.com/images/logo.png" width="60" alt="React Hook Form" />
+    <figcaption>React Hook Form</figcaption>
+  </figure>
+</div>
 
 </div>
 
