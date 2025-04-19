@@ -5,51 +5,123 @@
 
 - 📫 How to reach me **mahmoud.d.7@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center" >
-<h4 align='left'>Languages & Core:</h4>  
-<img src='https://img.icons8.com/?size=100&id=108784&format=png&color=000000' alt="JavaScript" width="60" height="60"/>
-<img src='https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000' alt="TypeScript" width="60" height="60"/>
-<img src='https://img.icons8.com/?size=100&id=40669&format=png&color=000000' alt="Functional Programming" width="60" height="60"/>
-<img src='https://cdn.worldvectorlogo.com/logos/javascript.svg' alt="Design Patterns" width="60" height="60"/>
+<h2 align='left'>🧠 Core Skills</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://img.icons8.com/?size=100&id=108784&format=png&color=000000' width="60" />
+  <figcaption>JavaScript</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000' width="60" />
+  <figcaption>TypeScript</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://img.icons8.com/?size=100&id=40669&format=png&color=000000' width="60" />
+  <figcaption>Functional Programming</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://cdn.worldvectorlogo.com/logos/javascript.svg' width="60" />
+  <figcaption>Design Patterns</figcaption>
+</figure>
 
-<h4 align='left'>Frontend Frameworks:</h4>  
-<img src='https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000' alt="React" width="60" height="60"/>
-<img src='https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp' alt="Next.js" width="60" height="60"/>
+<h2 align='left'>⚛️ Frontend Frameworks</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000' width="60" />
+  <figcaption>React</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp' width="60" />
+  <figcaption>Next.js</figcaption>
+</figure>
 
-<h4 align='left'>State Management:</h4>  
-<img src='https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000' alt="Redux" width="60" height="60"/>
-<img src='https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo.png' alt="Redux Toolkit" width="60" height="60"/>
-<img src='https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png' alt="Zustand" width="160" height="60"/>
+<h2 align='left'>📦 State Management</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000' width="60" />
+  <figcaption>Redux</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://raw.githubusercontent.com/reduxjs/redux-toolkit/master/logo.png' width="60" />
+  <figcaption>Redux Toolkit</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Flftgzwgzy8g2u8vqwso2.png' width="100" />
+  <figcaption>Zustand</figcaption>
+</figure>
 
-<h4 align='left'>Data Fetching:</h4>  
-<img src='https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png' alt="React Query" width="60" height="60"/>
-<img src='https://swr-card.vercel.app/' alt="SWR" width="90" height="60"/>
-<img src='https://axios-http.com/assets/logo.svg' alt="Axios" width="60" height="60"/>
-<img src='https://avatars.githubusercontent.com/u/15642823?s=280&v=4' alt="OpenAPI Fetch" width="60" height="60"/>
+<h2 align='left'>🔗 Data Fetching</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png' width="60" />
+  <figcaption>React Query</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://swr-card.vercel.app/' width="60" />
+  <figcaption>SWR</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://axios-http.com/assets/logo.svg' width="60" />
+  <figcaption>Axios</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://avatars.githubusercontent.com/u/15642823?s=280&v=4' width="60" />
+  <figcaption>OpenAPI Fetch</figcaption>
+</figure>
 
-<h4 align='left'>Forms:</h4>  
-<img src='https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png' alt='Formik' width="60" height="60"/>
-<img src='https://react-hook-form.com/images/logo.png' alt='React Hook Form' width="60" height="60"/>
+<h2 align='left'>📝 Forms</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png' width="60" />
+  <figcaption>Formik</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://react-hook-form.com/images/logo.png' width="60" />
+  <figcaption>React Hook Form</figcaption>
+</figure>
 
-<h4 align='left'>Testing:</h4>  
-<img src='https://jestjs.io/img/opengraph.png' alt="Jest" width="60" height="60"/>
-<img src='https://avatars.githubusercontent.com/u/2458726?s=280&v=4' alt="Enzyme" width="60" height="60"/>
-<img src='https://playwright.dev/img/playwright-logo.svg' alt="Playwright" width="60" height="60"/>
+<h2 align='left'>🧪 Testing</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://jestjs.io/img/opengraph.png' width="60" />
+  <figcaption>Jest</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://avatars.githubusercontent.com/u/2458726?s=280&v=4' width="60" />
+  <figcaption>Enzyme</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://playwright.dev/img/playwright-logo.svg' width="60" />
+  <figcaption>Playwright</figcaption>
+</figure>
 
-<h4 align='left'>i18n / Localization:</h4>  
-<img src='https://seeklogo.com/images/I/i18next-logo-15D2085D42-seeklogo.com.png' alt="i18next" width="60" height="60"/>
-<img src='https://avatars.githubusercontent.com/u/79911847?s=280&v=4' alt="Tolgee" width="60" height="60"/>
+<h2 align='left'>🌍 Localization</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://seeklogo.com/images/I/i18next-logo-15D2085D42-seeklogo.com.png' width="60" />
+  <figcaption>i18next</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://avatars.githubusercontent.com/u/79911847?s=280&v=4' width="60" />
+  <figcaption>Tolgee</figcaption>
+</figure>
 
-<h4 align='left'>UI Design & Libraries:</h4>  
-<img src='https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/logo.png' alt="Shadcn" width="60" height="60"/>
-<img src='https://avatars.githubusercontent.com/u/75042463?s=200&v=4' alt="Radix UI" width="60" height="60"/>
-<img src='https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000' alt="Tailwind CSS" width="60" height="60"/>
+<h2 align='left'>🎨 UI & Design Tools</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/logo.png' width="60" />
+  <figcaption>Shadcn UI</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://avatars.githubusercontent.com/u/75042463?s=200&v=4' width="60" />
+  <figcaption>Radix UI</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000' width="60" />
+  <figcaption>Tailwind CSS</figcaption>
+</figure>
 
-<h4 align='left'>Tools & Docs:</h4>  
-<img src='https://static-00.iconduck.com/assets.00/storybook-icon-2048x2048-vvyr1tcx.png' alt="Storybook" width="60" height="60"/>
-<img src='https://refine.dev/img/refine_favicon.svg' alt="Refine" width="60" height="60"/>
-
+<h2 align='left'>📚 Docs & Admin Tools</h2>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://static-00.iconduck.com/assets.00/storybook-icon-2048x2048-vvyr1tcx.png' width="60" />
+  <figcaption>Storybook</figcaption>
+</figure>
+<figure style="display:inline-block; text-align:center; margin:10px;">
+  <img src='https://refine.dev/img/refine_favicon.svg' width="60" />
+  <figcaption>Refine</figcaption>
+</figure>
 
 </div>
 
