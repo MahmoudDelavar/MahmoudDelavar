@@ -127,7 +127,6 @@
       <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="80" /><br />
       <sub>React Query</sub>
     </td>
-    <!-- ادامه اگر ابزار دیگری هست اضافه کن -->
   </tr>
 </table>
 
