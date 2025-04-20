@@ -20,7 +20,7 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ## 🧠 Core Skills
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Functional Programming" />
@@ -29,14 +29,14 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ## ⚛️ Frameworks & Libraries
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" width="130" height="50" style="object-fit: contain;" alt="Next.js" />
 </div>
 
 ## 🌐 API & Data Fetching
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="OpenAPI" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Axios" />
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="React Query" />
@@ -45,14 +45,14 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ## 🌍 Internationalization (i18n)
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/i18next-26A69A?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="i18next" />
   <img src="https://img.shields.io/badge/Tolgee-F44E3B?style=flat" width="130" height="50" style="object-fit: contain;" alt="Tolgee" />
 </div>
 
 ## 🧪 Testing
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Playwright" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Jest" />
   <img src="https://img.shields.io/badge/Enzyme-663399?style=flat" width="130" height="50" style="object-fit: contain;" alt="Enzyme" />
@@ -60,14 +60,14 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ## 🧾 Forms
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/Formik-EF6262?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Formik" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat" width="130" height="50" style="object-fit: contain;" alt="React Hook Form" />
 </div>
 
 ## 📦 State Management
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Zustand" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Redux" />
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat" width="130" height="50" style="object-fit: contain;" alt="Redux Toolkit" />
@@ -75,13 +75,13 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ## 🚀 Frameworks & Platforms
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/Refine-6C47FF?style=flat" width="130" height="50" style="object-fit: contain;" alt="Refine" />
 </div>
 
 ## 🧩 UI & Styling
 
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 70px;">
+<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Storybook" />
   <img src="https://img.shields.io/badge/Shadcn-000000?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Shadcn" />
   <img src="https://img.shields.io/badge/Radix%20UI-ffffff?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Radix UI" />
