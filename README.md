@@ -18,7 +18,7 @@ I specialize in building exceptional digital experiences using modern front-end 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" width="190" height="50" style="object-fit: contain; margin-right: 20px;" alt="Functional Programming" />
   <img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" width="130" height="50" style="object-fit: contain;" alt="Design Patterns" />
-  <img src="https://img.shields.io/badge/CI%2FCD-000000?style=flat" width="130" height="50" style="object-fit: contain;" alt="CI / CD" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdei2ZcOZBXeHSGoO2uoV7_3um4Kytf_ibG8Ut31vRf4332xd_1VIeSdXeHq2z05k-CbM&usqp=CAU" width="130" height="50" style="object-fit: contain;" alt="CI / CD" />
 </div>
 
 ## 
@@ -113,3 +113,4 @@ I specialize in building exceptional digital experiences using modern front-end 
  <a href='https://www.itpaydar.com' target="_blank" rel="noreferrer" >IT Paydar - digitak marketing website </a>
  
  https://github.com/MahmoudDelavar/MahmoudDelavar/assets/107745890/b569ae1c-b08d-4a9a-b6f4-3c867966ecca
+
