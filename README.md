@@ -83,7 +83,8 @@ I specialize in building exceptional digital experiences using modern front-end 
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Storybook" />
   <img src="https://img.shields.io/badge/Shadcn-000000?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Shadcn" />
   <img src="https://img.shields.io/badge/Radix%20UI-ffffff?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Radix UI" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" width="130" height="50" style="object-fit: contain;" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" width="130" height="50" style="object-fit: contain;" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" width="130" height="50" style="object-fit: contain;" alt="Bootstrap" />
 
 </div>
 
