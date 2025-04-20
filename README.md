@@ -83,9 +83,6 @@ I specialize in building exceptional digital experiences using modern front-end 
 ---
 
 > 😎 Always open to learning and building cool stuff!
----
-
-> 😎 Always open to learning and building cool stuff!
  <h2 align="center">Reac Native app demo:</h2>
  <p>  ESP32 محاسبات ریاضی  و ارسال عدد به ماژول   </p>
  
