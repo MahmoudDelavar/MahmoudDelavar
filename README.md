@@ -13,90 +13,190 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ---
 
-## 🧠 Skills
+### Hi there 👋 I'm a Front-end Developer
 
-### 👨‍💻 Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+I specialize in building exceptional digital experiences using modern front-end technologies.
 
 ---
 
-### ⚙️ Core Tools & Concepts  
-<img src="https://cdn-icons-png.flaticon.com/512/2889/2889078.png" width="40" />
+## 🧠 Core Skills
 
-![Functional Programming](https://img.shields.io/badge/Functional%20Programming-000000?style=flat)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat)
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
 
----
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="100" height="100" style="object-fit: contain;" alt="JavaScript" />
+    <span style="white-space: nowrap;">JavaScript</span>
+  </div>
 
-### ⚛️ Frameworks & Libraries  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="TypeScript" />
+    <span style="white-space: nowrap;">TypeScript</span>
+  </div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Functional Programming" />
+    <span style="white-space: nowrap;">Functional Programming</span>
+  </div>
 
----
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Design Patterns" />
+    <span style="white-space: nowrap;">Design Patterns</span>
+  </div>
 
-### 🌐 API & Data Fetching  
-<img src="https://cdn-icons-png.flaticon.com/512/103/103089.png" width="40" />
+</div>
 
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![SWR](https://img.shields.io/badge/SWR-000000?style=flat)
+## ⚛️ Frameworks & Libraries
 
----
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
 
-### 🌍 Internationalization (i18n)  
-<img src="https://cdn-icons-png.flaticon.com/512/4783/4783037.png" width="40" />
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="100" height="100" style="object-fit: contain;" alt="React" />
+    <span style="white-space: nowrap;">React</span>
+  </div>
 
-![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat)
-![Tolgee](https://img.shields.io/badge/Tolgee-F44E3B?style=flat)
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Next.js" />
+    <span style="white-space: nowrap;">Next.js</span>
+  </div>
 
----
+</div>
 
-### 🧪 Testing  
-<img src="https://cdn-icons-png.flaticon.com/512/2917/2917995.png" width="40" />
+## 🌐 API & Data Fetching
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Enzyme](https://img.shields.io/badge/Enzyme-663399?style=flat)
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
 
----
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="OpenAPI" />
+    <span style="white-space: nowrap;">OpenAPI</span>
+  </div>
 
-### 🧾 Forms  
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055642.png" width="40" />
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" width="100" height="100" style="object-fit: contain;" alt="Axios" />
+    <span style="white-space: nowrap;">Axios</span>
+  </div>
 
-![Formik](https://img.shields.io/badge/Formik-EF6262?style=flat)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat)
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="React Query" />
+    <span style="white-space: nowrap;">React Query</span>
+  </div>
 
----
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/SWR-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="SWR" />
+    <span style="white-space: nowrap;">SWR</span>
+  </div>
 
-### 📦 State Management  
-<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="40" />
+</div>
 
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat)
+## 🌍 Internationalization (i18n)
 
----
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
 
-### 🚀 Frameworks & Platforms  
-<img src="https://refine.dev/img/refine_logo.svg" width="60" />
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/i18next-26A69A?style=flat" width="100" height="100" style="object-fit: contain;" alt="i18next" />
+    <span style="white-space: nowrap;">i18next</span>
+  </div>
 
-![Refine](https://img.shields.io/badge/Refine-6C47FF?style=flat)
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Tolgee-F44E3B?style=flat" width="100" height="100" style="object-fit: contain;" alt="Tolgee" />
+    <span style="white-space: nowrap;">Tolgee</span>
+  </div>
 
----
+</div>
 
-### 🧩 UI & Styling  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" /> <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" />
+## 🧪 Testing
 
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=flat)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-ffffff?style=flat)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" width="100" height="100" style="object-fit: contain;" alt="Playwright" />
+    <span style="white-space: nowrap;">Playwright</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Jest" />
+    <span style="white-space: nowrap;">Jest</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Enzyme-663399?style=flat" width="100" height="100" style="object-fit: contain;" alt="Enzyme" />
+    <span style="white-space: nowrap;">Enzyme</span>
+  </div>
+
+</div>
+
+## 🧾 Forms
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Formik-EF6262?style=flat" width="100" height="100" style="object-fit: contain;" alt="Formik" />
+    <span style="white-space: nowrap;">Formik</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat" width="100" height="100" style="object-fit: contain;" alt="React Hook Form" />
+    <span style="white-space: nowrap;">React Hook Form</span>
+  </div>
+
+</div>
+
+## 📦 State Management
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Zustand-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Zustand" />
+    <span style="white-space: nowrap;">Zustand</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Redux" />
+    <span style="white-space: nowrap;">Redux</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat" width="100" height="100" style="object-fit: contain;" alt="Redux Toolkit" />
+    <span style="white-space: nowrap;">Redux Toolkit</span>
+  </div>
+
+</div>
+
+## 🚀 Frameworks & Platforms
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Refine-6C47FF?style=flat" width="100" height="100" style="object-fit: contain;" alt="Refine" />
+    <span style="white-space: nowrap;">Refine</span>
+  </div>
+
+</div>
+
+## 🧩 UI & Styling
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Storybook" />
+    <span style="white-space: nowrap;">Storybook</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Shadcn-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Shadcn" />
+    <span style="white-space: nowrap;">Shadcn</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Radix%20UI-ffffff?style=flat" width="100" height="100" style="object-fit: contain;" alt="Radix UI" />
+    <span style="white-space: nowrap;">Radix UI</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Tailwind CSS" />
+    <span style="white-space: nowrap;">Tailwind CSS</span>
+  </div>
+
+</div>
 
 ---
 
