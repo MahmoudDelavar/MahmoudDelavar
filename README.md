@@ -18,7 +18,10 @@ I specialize in building exceptional digital experiences using modern front-end 
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="150" height="150" style="object-fit: contain;" alt="JavaScript" />
     <span style="white-space: nowrap;">JavaScript</span>
   </div>
-
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="150" height="150" style="object-fit: contain;" alt="TypeScript" />
+    <span style="white-space: nowrap;">TypeScript</span>
+  </div>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="150" height="150" style="object-fit: contain;" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" width="190" height="50" style="object-fit: contain; margin-right: 20px;" alt="Functional Programming" />
