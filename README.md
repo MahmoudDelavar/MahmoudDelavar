@@ -2,58 +2,62 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">Frontend developer</h3>
-### 🧠 Core Skills
+### Hi there 👋 I'm a Front-end Developer
 
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40"/> JavaScript  
-<img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="40"/> TypeScript  
-<img src="https://salesforceway.com/wp-content/uploads/2019/09/js_fp.jpeg" width="40"/> Functional Programming  
-<img src="https://media.licdn.com/dms/image/v2/D5612AQELEoExGMkq1w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1680590389821?e=2147483647&v=beta&t=99PmeuXsoxkEqAR-_2mCbx01wW4FSUcj78vtgG4SwIY" width="40"/> Design Patterns  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdei2ZcOZBXeHSGoO2uoV7_3um4Kytf_ibG8Ut31vRf4332xd_1VIeSdXeHq2z05k-CbM&usqp=CAU" width="40"/> CI/CD  
+I specialize in building exceptional digital experiences using modern front-end technologies.
 
 ---
 
-### ⚛️ Frontend Frameworks
+## 🧠 Skills
 
-<img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="40"/> React  
-<img src="https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp" width="40"/> Next.js  
-<img src="https://images.seeklogo.com/logo-png/51/1/refine-logo-png_seeklogo-518202.png" width="40"/> Refine  
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
----
+### ⚙️ Core Tools & Concepts
+![Functional Programming](https://img.shields.io/badge/Functional%20Programming-000000?style=flat)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-000000?style=flat)
 
-### 🎨 UI Frameworks
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="40"/> Tailwind  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="40"/> Bootstrap  
-<img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" width="40"/> Shadcn  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVrCl_Lpmt7DWX3NLNqv5CdeMkn-idUHulq2GRVfp7e35eTkZ-KDcxwuc4KaH7ZIwkjk&usqp=CAU" width="40"/> Radix  
+### 🌐 API & Data Fetching
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![SWR](https://img.shields.io/badge/SWR-000000?style=flat)
 
----
-
-### 🧩 UI Dev Tools
-
-<img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" width="40"/> Storybook  
-
----
+### 🌍 Internationalization (i18n)
+![i18next](https://img.shields.io/badge/i18next-26A69A?style=flat)
+![Tolgee](https://img.shields.io/badge/Tolgee-F44E3B?style=flat)
 
 ### 🧪 Testing
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Enzyme](https://img.shields.io/badge/Enzyme-663399?style=flat)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_logo.svg" width="40"/> Playwright  
-<img src="https://www.svgrepo.com/show/373700/jest.svg" width="40"/> Jest  
-<img src="https://endertech.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ffswbkokbwqb5%2F5EndEac3E7FyAgY2gpS6wU%2F600b44939abdbf67d1edf6f1362a0ed4%2Fimage4.png&w=1920&q=75" width="40"/> Enzyme  
-
----
+### 🧾 Forms
+![Formik](https://img.shields.io/badge/Formik-EF6262?style=flat)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat)
 
 ### 📦 State Management
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat)
 
-<img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width="40"/> Redux Toolkit  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKVEgo1P4QtE3Ia_HZZZWYACcokZEUn8BtjI9yMI5BYcx1CQ1KMRKgg8SYyrxd8KBq1U&usqp=CAU" width="40"/> Zustand  
+### 🚀 Frameworks & Platforms
+![Refine](https://img.shields.io/badge/Refine-6C47FF?style=flat)
+
+### 🧩 UI & Styling
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=flat)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-ffffff?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
-### 🔗 Data Fetching
-
-<img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40"/> React Query  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtFVzCuELBynE6bsYectGzVRKPsn1vtRfFHTs7CKZrpUGgy4Qa34WIoLT3-4dU_9Y4r0&usqp=CAU" width="40"/> SWR  
+> 😎 Always open to learning and building cool stuff!
 
 
  <h2 align="center">Reac Native app demo:</h2>
