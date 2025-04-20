@@ -18,62 +18,195 @@ I specialize in building exceptional digital experiences using modern front-end 
 I specialize in building exceptional digital experiences using modern front-end technologies.
 
 ---
+### Hi there 👋 I'm a Front-end Developer
+
+I specialize in building exceptional digital experiences using modern front-end technologies.
+
+---
 
 ## 🧠 Core Skills
 
-| JavaScript | TypeScript | Functional Programming | Design Patterns |
-|:----------:|:----------:|:-----------------------:|:---------------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <br> <code>JavaScript</code> | <img width="80" height="80" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <br> <code>TypeScript</code> | <img width="80" height="80" src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" alt="Functional Programming" /> <br> <code>Functional Programming</code> | <img width="80" height="80" src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" alt="Design Patterns" /> <br> <code>Design Patterns</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="100" height="100" style="object-fit: contain;" alt="JavaScript" />
+    <span style="white-space: nowrap;">JavaScript</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="TypeScript" />
+    <span style="white-space: nowrap;">TypeScript</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Functional Programming" />
+    <span style="white-space: nowrap;">Functional Programming</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Design Patterns" />
+    <span style="white-space: nowrap;">Design Patterns</span>
+  </div>
+
+</div>
 
 ## ⚛️ Frameworks & Libraries
 
-| React | Next.js |
-|:-----:|:-------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <br> <code>React</code> | <img width="80" height="80" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /> <br> <code>Next.js</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="100" height="100" style="object-fit: contain;" alt="React" />
+    <span style="white-space: nowrap;">React</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Next.js" />
+    <span style="white-space: nowrap;">Next.js</span>
+  </div>
+
+</div>
 
 ## 🌐 API & Data Fetching
 
-| OpenAPI | Axios | React Query | SWR |
-|:-------:|:-----:|:-----------:|:---:|
-| <img width="80" height="80" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" alt="OpenAPI" /> <br> <code>OpenAPI</code> | <img width="80" height="80" src="https://img.shields.io/badge/Axios-5A29E4?style=flat" alt="Axios" /> <br> <code>Axios</code> | <img width="80" height="80" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" /> <br> <code>React Query</code> | <img width="80" height="80" src="https://img.shields.io/badge/SWR-000000?style=flat" alt="SWR" /> <br> <code>SWR</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="OpenAPI" />
+    <span style="white-space: nowrap;">OpenAPI</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat" width="100" height="100" style="object-fit: contain;" alt="Axios" />
+    <span style="white-space: nowrap;">Axios</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="React Query" />
+    <span style="white-space: nowrap;">React Query</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/SWR-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="SWR" />
+    <span style="white-space: nowrap;">SWR</span>
+  </div>
+
+</div>
 
 ## 🌍 Internationalization (i18n)
 
-| i18next | Tolgee |
-|:-------:|:------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/i18next-26A69A?style=flat" alt="i18next" /> <br> <code>i18next</code> | <img width="80" height="80" src="https://img.shields.io/badge/Tolgee-F44E3B?style=flat" alt="Tolgee" /> <br> <code>Tolgee</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/i18next-26A69A?style=flat" width="100" height="100" style="object-fit: contain;" alt="i18next" />
+    <span style="white-space: nowrap;">i18next</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Tolgee-F44E3B?style=flat" width="100" height="100" style="object-fit: contain;" alt="Tolgee" />
+    <span style="white-space: nowrap;">Tolgee</span>
+  </div>
+
+</div>
 
 ## 🧪 Testing
 
-| Playwright | Jest | Enzyme |
-|:----------:|:----:|:------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" alt="Playwright" /> <br> <code>Playwright</code> | <img width="80" height="80" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" /> <br> <code>Jest</code> | <img width="80" height="80" src="https://img.shields.io/badge/Enzyme-663399?style=flat" alt="Enzyme" /> <br> <code>Enzyme</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" width="100" height="100" style="object-fit: contain;" alt="Playwright" />
+    <span style="white-space: nowrap;">Playwright</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Jest" />
+    <span style="white-space: nowrap;">Jest</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Enzyme-663399?style=flat" width="100" height="100" style="object-fit: contain;" alt="Enzyme" />
+    <span style="white-space: nowrap;">Enzyme</span>
+  </div>
+
+</div>
 
 ## 🧾 Forms
 
-| Formik | React Hook Form |
-|:------:|:---------------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/Formik-EF6262?style=flat" alt="Formik" /> <br> <code>Formik</code> | <img width="80" height="80" src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat" alt="React Hook Form" /> <br> <code>React Hook Form</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Formik-EF6262?style=flat" width="100" height="100" style="object-fit: contain;" alt="Formik" />
+    <span style="white-space: nowrap;">Formik</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat" width="100" height="100" style="object-fit: contain;" alt="React Hook Form" />
+    <span style="white-space: nowrap;">React Hook Form</span>
+  </div>
+
+</div>
 
 ## 📦 State Management
 
-| Zustand | Redux | Redux Toolkit |
-|:-------:|:-----:|:-------------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand" /> <br> <code>Zustand</code> | <img width="80" height="80" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" /> <br> <code>Redux</code> | <img width="80" height="80" src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat" alt="Redux Toolkit" /> <br> <code>Redux Toolkit</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Zustand-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Zustand" />
+    <span style="white-space: nowrap;">Zustand</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Redux" />
+    <span style="white-space: nowrap;">Redux</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat" width="100" height="100" style="object-fit: contain;" alt="Redux Toolkit" />
+    <span style="white-space: nowrap;">Redux Toolkit</span>
+  </div>
+
+</div>
 
 ## 🚀 Frameworks & Platforms
 
-| Refine |
-|:------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/Refine-6C47FF?style=flat" alt="Refine" /> <br> <code>Refine</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Refine-6C47FF?style=flat" width="100" height="100" style="object-fit: contain;" alt="Refine" />
+    <span style="white-space: nowrap;">Refine</span>
+  </div>
+
+</div>
 
 ## 🧩 UI & Styling
 
-| Storybook | Shadcn | Radix UI | Tailwind CSS |
-|:---------:|:------:|:--------:|:------------:|
-| <img width="80" height="80" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook" /> <br> <code>Storybook</code> | <img width="80" height="80" src="https://img.shields.io/badge/Shadcn-000000?style=flat" alt="Shadcn" /> <br> <code>Shadcn</code> | <img width="80" height="80" src="https://img.shields.io/badge/Radix%20UI-ffffff?style=flat" alt="Radix UI" /> <br> <code>Radix UI</code> | <img width="80" height="80" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <br> <code>Tailwind CSS</code> |
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px;">
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Storybook" />
+    <span style="white-space: nowrap;">Storybook</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Shadcn-000000?style=flat" width="100" height="100" style="object-fit: contain;" alt="Shadcn" />
+    <span style="white-space: nowrap;">Shadcn</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Radix%20UI-ffffff?style=flat" width="100" height="100" style="object-fit: contain;" alt="Radix UI" />
+    <span style="white-space: nowrap;">Radix UI</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" width="100" height="100" style="object-fit: contain;" alt="Tailwind CSS" />
+    <span style="white-space: nowrap;">Tailwind CSS</span>
+  </div>
+
+</div>
 
 ---
+
+> 😎 Always open to learning and building cool stuff!
+
 
 > 😎 Always open to learning and building cool stuff!
 
