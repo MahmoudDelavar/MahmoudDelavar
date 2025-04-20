@@ -7,7 +7,7 @@
 
 ## 🧠 Core Skills
 
-<div align="left" style="display: flex; ">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 40px; align-items: center; justify-content: flex-start; margin-bottom: 60px; ">
 
   <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="150" height="150" style="object-fit: contain;" alt="JavaScript" />
