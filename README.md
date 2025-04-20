@@ -4,7 +4,17 @@
 <h3 align="center">Frontend developer</h3>
 
 - 📫 How to reach me **mahmoud.d.7@gmail.com**
-<p align="center"> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" alt="JavaScript" /> <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="60" alt="TypeScript" /> <img src="https://salesforceway.com/wp-content/uploads/2019/09/js_fp.jpeg" width="60" alt="Functional Programming" /> <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="60" alt="Design Patterns" /> <img src="https://media.licdn.com/dms/image/v2/D5612AQELEoExGMkq1w/article-cover_image-shrink_600_2000/0/1680590389821?e=2147483647&v=beta&t=99PmeuXsoxkEqAR-_2mCbx01wW4FSUcj78vtgG4SwIY" width="60" alt="Clean Architecture" /> </p> <p align="center"> JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; TypeScript &nbsp;&nbsp;|&nbsp;&nbsp; FP &nbsp;&nbsp;|&nbsp;&nbsp; Design Patterns &nbsp;&nbsp;|&nbsp;&nbsp; Clean Architecture </p>
+
+## 🚀 Skills
+
+🟨 **JavaScript**  
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+
+🟦 **TypeScript**  
+![TypeScript](https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000)
+
+🧩 **Design Patterns**  
+![Design Patterns](https://media.licdn.com/dms/image/v2/D5612AQELEoExGMkq1w/article-cover_image-shrink_600_2000/0/1680590389821?e=2147483647&v=beta&t=99PmeuXsoxkEqAR-_2mCbx01wW4FSUcj78vtgG4SwIY)
 
  <h2 align="center">Reac Native app demo:</h2>
  <p>  ESP32 محاسبات ریاضی  و ارسال عدد به ماژول   </p>
