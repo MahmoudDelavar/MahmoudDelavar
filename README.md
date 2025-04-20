@@ -2,62 +2,58 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
 <h3 align="center">Frontend developer</h3>
-
-- 📫 How to reach me **mahmoud.d.7@gmail.com**
 ### 🧠 Core Skills
 
-| | | |
-|---|---|---|
-| <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60"/><br>**JavaScript** | <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="60"/><br>**TypeScript** | <img src="https://salesforceway.com/wp-content/uploads/2019/09/js_fp.jpeg" width="60"/><br>**Functional Programming** |
-| <img src="https://media.licdn.com/dms/image/v2/D5612AQELEoExGMkq1w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1680590389821?e=2147483647&v=beta&t=99PmeuXsoxkEqAR-_2mCbx01wW4FSUcj78vtgG4SwIY" width="60"/><br>**Design Patterns** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdei2ZcOZBXeHSGoO2uoV7_3um4Kytf_ibG8Ut31vRf4332xd_1VIeSdXeHq2z05k-CbM&usqp=CAU" width="60"/><br>**CI/CD** | |
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40"/> JavaScript  
+<img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="40"/> TypeScript  
+<img src="https://salesforceway.com/wp-content/uploads/2019/09/js_fp.jpeg" width="40"/> Functional Programming  
+<img src="https://media.licdn.com/dms/image/v2/D5612AQELEoExGMkq1w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1680590389821?e=2147483647&v=beta&t=99PmeuXsoxkEqAR-_2mCbx01wW4FSUcj78vtgG4SwIY" width="40"/> Design Patterns  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdei2ZcOZBXeHSGoO2uoV7_3um4Kytf_ibG8Ut31vRf4332xd_1VIeSdXeHq2z05k-CbM&usqp=CAU" width="40"/> CI/CD  
 
 ---
 
 ### ⚛️ Frontend Frameworks
 
-| | | |
-|---|---|---|
-| <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="60"/><br>**React** | <img src="https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp" width="60"/><br>**Next.js** | <img src="https://images.seeklogo.com/logo-png/51/1/refine-logo-png_seeklogo-518202.png" width="60"/><br>**Refine** |
+<img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="40"/> React  
+<img src="https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp" width="40"/> Next.js  
+<img src="https://images.seeklogo.com/logo-png/51/1/refine-logo-png_seeklogo-518202.png" width="40"/> Refine  
 
 ---
 
 ### 🎨 UI Frameworks
 
-| | | | |
-|---|---|---|---|
-| <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="60"/><br>**Tailwind** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="60"/><br>**Bootstrap** | <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" width="60"/><br>**Shadcn** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVrCl_Lpmt7DWX3NLNqv5CdeMkn-idUHulq2GRVfp7e35eTkZ-KDcxwuc4KaH7ZIwkjk&usqp=CAU" width="60"/><br>**Radix** |
+<img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="40"/> Tailwind  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="40"/> Bootstrap  
+<img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" width="40"/> Shadcn  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVrCl_Lpmt7DWX3NLNqv5CdeMkn-idUHulq2GRVfp7e35eTkZ-KDcxwuc4KaH7ZIwkjk&usqp=CAU" width="40"/> Radix  
 
 ---
 
 ### 🧩 UI Dev Tools
 
-| |
-|---|
-| <img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" width="60"/><br>**Storybook** |
+<img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" width="40"/> Storybook  
 
 ---
 
 ### 🧪 Testing
 
-| | | |
-|---|---|---|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_logo.svg" width="60"/><br>**Playwright** | <img src="https://www.svgrepo.com/show/373700/jest.svg" width="60"/><br>**Jest** | <img src="https://endertech.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ffswbkokbwqb5%2F5EndEac3E7FyAgY2gpS6wU%2F600b44939abdbf67d1edf6f1362a0ed4%2Fimage4.png&w=1920&q=75" width="60"/><br>**Enzyme** |
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_logo.svg" width="40"/> Playwright  
+<img src="https://www.svgrepo.com/show/373700/jest.svg" width="40"/> Jest  
+<img src="https://endertech.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ffswbkokbwqb5%2F5EndEac3E7FyAgY2gpS6wU%2F600b44939abdbf67d1edf6f1362a0ed4%2Fimage4.png&w=1920&q=75" width="40"/> Enzyme  
 
 ---
 
 ### 📦 State Management
 
-| | |
-|---|---|
-| <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width="60"/><br>**Redux Toolkit** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKVEgo1P4QtE3Ia_HZZZWYACcokZEUn8BtjI9yMI5BYcx1CQ1KMRKgg8SYyrxd8KBq1U&usqp=CAU" width="60"/><br>**Zustand** |
+<img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width="40"/> Redux Toolkit  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKVEgo1P4QtE3Ia_HZZZWYACcokZEUn8BtjI9yMI5BYcx1CQ1KMRKgg8SYyrxd8KBq1U&usqp=CAU" width="40"/> Zustand  
 
 ---
 
 ### 🔗 Data Fetching
 
-| | |
-|---|---|
-| <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="60"/><br>**React Query** | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtFVzCuELBynE6bsYectGzVRKPsn1vtRfFHTs7CKZrpUGgy4Qa34WIoLT3-4dU_9Y4r0&usqp=CAU" width="60"/><br>**SWR** |
+<img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="40"/> React Query  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVtFVzCuELBynE6bsYectGzVRKPsn1vtRfFHTs7CKZrpUGgy4Qa34WIoLT3-4dU_9Y4r0&usqp=CAU" width="40"/> SWR  
 
 
  <h2 align="center">Reac Native app demo:</h2>
