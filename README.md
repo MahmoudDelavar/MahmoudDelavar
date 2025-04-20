@@ -65,6 +65,8 @@ I specialize in building exceptional digital experiences using modern front-end 
 <div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/Formik-EF6262?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Formik" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat" width="130" height="50" style="object-fit: contain;" alt="React Hook Form" />
+  <img src="https://img.shields.io/badge/Zod-BC54E0?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Zod" />
+  <img src="https://img.shields.io/badge/Yup-41A8F3?style=flat" width="130" height="50" style="object-fit: contain;" alt="Yup" />
 </div>
 
 ## 
