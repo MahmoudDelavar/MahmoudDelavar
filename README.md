@@ -13,156 +13,69 @@ I specialize in building exceptional digital experiences using modern front-end 
 I specialize in building exceptional digital experiences using modern front-end technologies.
 
 ---
+### Hi there 👋 I'm a Front-end Developer
+
+I specialize in building exceptional digital experiences using modern front-end technologies.
+
+---
 
 ## 🧠 Core Skills
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-    <code>JavaScript</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-    <code>TypeScript</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" alt="Functional Programming" />
-    <code>Functional Programming</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" alt="Design Patterns" />
-    <code>Design Patterns</code>
-  </div>
-</div>
+| JavaScript | TypeScript | Functional Programming | Design Patterns |
+|:----------:|:----------:|:-----------------------:|:---------------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" /> <br> <code>JavaScript</code> | <img width="80" height="80" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" /> <br> <code>TypeScript</code> | <img width="80" height="80" src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" alt="Functional Programming" /> <br> <code>Functional Programming</code> | <img width="80" height="80" src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" alt="Design Patterns" /> <br> <code>Design Patterns</code> |
 
 ## ⚛️ Frameworks & Libraries
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-    <code>React</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <code>Next.js</code>
-  </div>
-</div>
+| React | Next.js |
+|:-----:|:-------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /> <br> <code>React</code> | <img width="80" height="80" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /> <br> <code>Next.js</code> |
 
 ## 🌐 API & Data Fetching
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-    <code>OpenAPI</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Axios-5A29E4?style=flat" alt="Axios" />
-    <code>Axios</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" />
-    <code>React Query</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/SWR-000000?style=flat" alt="SWR" />
-    <code>SWR</code>
-  </div>
-</div>
+| OpenAPI | Axios | React Query | SWR |
+|:-------:|:-----:|:-----------:|:---:|
+| <img width="80" height="80" src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=openapiinitiative&logoColor=white" alt="OpenAPI" /> <br> <code>OpenAPI</code> | <img width="80" height="80" src="https://img.shields.io/badge/Axios-5A29E4?style=flat" alt="Axios" /> <br> <code>Axios</code> | <img width="80" height="80" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query" /> <br> <code>React Query</code> | <img width="80" height="80" src="https://img.shields.io/badge/SWR-000000?style=flat" alt="SWR" /> <br> <code>SWR</code> |
 
 ## 🌍 Internationalization (i18n)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/i18next-26A69A?style=flat" alt="i18next" />
-    <code>i18next</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Tolgee-F44E3B?style=flat" alt="Tolgee" />
-    <code>Tolgee</code>
-  </div>
-</div>
+| i18next | Tolgee |
+|:-------:|:------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/i18next-26A69A?style=flat" alt="i18next" /> <br> <code>i18next</code> | <img width="80" height="80" src="https://img.shields.io/badge/Tolgee-F44E3B?style=flat" alt="Tolgee" /> <br> <code>Tolgee</code> |
 
 ## 🧪 Testing
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" alt="Playwright" />
-    <code>Playwright</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" />
-    <code>Jest</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Enzyme-663399?style=flat" alt="Enzyme" />
-    <code>Enzyme</code>
-  </div>
-</div>
+| Playwright | Jest | Enzyme |
+|:----------:|:----:|:------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" alt="Playwright" /> <br> <code>Playwright</code> | <img width="80" height="80" src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest" /> <br> <code>Jest</code> | <img width="80" height="80" src="https://img.shields.io/badge/Enzyme-663399?style=flat" alt="Enzyme" /> <br> <code>Enzyme</code> |
 
 ## 🧾 Forms
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Formik-EF6262?style=flat" alt="Formik" />
-    <code>Formik</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat" alt="React Hook Form" />
-    <code>React Hook Form</code>
-  </div>
-</div>
+| Formik | React Hook Form |
+|:------:|:---------------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/Formik-EF6262?style=flat" alt="Formik" /> <br> <code>Formik</code> | <img width="80" height="80" src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat" alt="React Hook Form" /> <br> <code>React Hook Form</code> |
 
 ## 📦 State Management
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand" />
-    <code>Zustand</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-    <code>Redux</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat" alt="Redux Toolkit" />
-    <code>Redux Toolkit</code>
-  </div>
-</div>
+| Zustand | Redux | Redux Toolkit |
+|:-------:|:-----:|:-------------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand" /> <br> <code>Zustand</code> | <img width="80" height="80" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" /> <br> <code>Redux</code> | <img width="80" height="80" src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat" alt="Redux Toolkit" /> <br> <code>Redux Toolkit</code> |
 
 ## 🚀 Frameworks & Platforms
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Refine-6C47FF?style=flat" alt="Refine" />
-    <code>Refine</code>
-  </div>
-</div>
+| Refine |
+|:------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/Refine-6C47FF?style=flat" alt="Refine" /> <br> <code>Refine</code> |
 
 ## 🧩 UI & Styling
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook" />
-    <code>Storybook</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Shadcn-000000?style=flat" alt="Shadcn" />
-    <code>Shadcn</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Radix%20UI-ffffff?style=flat" alt="Radix UI" />
-    <code>Radix UI</code>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <img width="80" height="80" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <code>Tailwind CSS</code>
-  </div>
-</div>
+| Storybook | Shadcn | Radix UI | Tailwind CSS |
+|:---------:|:------:|:--------:|:------------:|
+| <img width="80" height="80" src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" alt="Storybook" /> <br> <code>Storybook</code> | <img width="80" height="80" src="https://img.shields.io/badge/Shadcn-000000?style=flat" alt="Shadcn" /> <br> <code>Shadcn</code> | <img width="80" height="80" src="https://img.shields.io/badge/Radix%20UI-ffffff?style=flat" alt="Radix UI" /> <br> <code>Radix UI</code> | <img width="80" height="80" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <br> <code>Tailwind CSS</code> |
 
 ---
 
 > 😎 Always open to learning and building cool stuff!
-
 
  <h2 align="center">Reac Native app demo:</h2>
  <p>  ESP32 محاسبات ریاضی  و ارسال عدد به ماژول   </p>
