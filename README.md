@@ -8,14 +8,6 @@
 
 I specialize in building exceptional digital experiences using modern front-end technologies.
 
-### Hi there 👋 I'm a Front-end Developer
-
-I specialize in building exceptional digital experiences using modern front-end technologies.
-
-### Hi there 👋 I'm a Front-end Developer
-
-I specialize in building exceptional digital experiences using modern front-end technologies.
-
 ---
 
 ## 🧠 Core Skills
