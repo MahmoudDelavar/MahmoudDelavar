@@ -67,11 +67,6 @@ I specialize in building exceptional digital experiences using modern front-end 
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat" width="130" height="50" style="object-fit: contain;" alt="Redux Toolkit" />
 </div>
 
-## 🚀 Frameworks & Platforms
-
-<div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
-</div>
-
 ## 🧩 UI & Styling
 
 <div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
