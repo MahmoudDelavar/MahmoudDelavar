@@ -5,16 +5,131 @@
 
 - 📫 How to reach me **mahmoud.d.7@gmail.com**
 
-## 🚀 Skills
+## 🧠 Core Skills
 
-🟨 **JavaScript**  
-![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="80" /><br />
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="80" /><br />
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://salesforceway.com/wp-content/uploads/2019/09/js_fp.jpeg" width="80" /><br />
+      <sub>Functional Programming</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://media.licdn.com/dms/image/v2/D5612AQELEoExGMkq1w/article-cover_image-shrink_600_2000/0/1680590389821?e=2147483647&v=beta&t=99PmeuXsoxkEqAR-_2mCbx01wW4FSUcj78vtgG4SwIY" width="80" /><br />
+      <sub>Design Patterns</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdei2ZcOZBXeHSGoO2uoV7_3um4Kytf_ibG8Ut31vRf4332xd_1VIeSdXeHq2z05k-CbM&usqp=CAU" width="80" /><br />
+      <sub>CI / CD</sub>
+    </td>
+  </tr>
+</table>
 
-🟦 **TypeScript**  
-![TypeScript](https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000)
+## ⚛️ Frontend Frameworks
 
-🧩 **Design Patterns**  
-![Design Patterns](https://media.licdn.com/dms/image/v2/D5612AQELEoExGMkq1w/article-cover_image-shrink_600_2000/0/1680590389821?e=2147483647&v=beta&t=99PmeuXsoxkEqAR-_2mCbx01wW4FSUcj78vtgG4SwIY)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" width="80" /><br />
+      <sub>React</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.orangemantra.com/wp-content/uploads/2024/01/next-t9.webp" width="80" /><br />
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://images.seeklogo.com/logo-png/51/1/refine-logo-png_seeklogo-518202.png" width="80" /><br />
+      <sub>Refine</sub>
+    </td>
+  </tr>
+</table>
+
+## 🎨 UI Frameworks
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" width="80" /><br />
+      <sub>Tailwind CSS</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="80" /><br />
+      <sub>Bootstrap</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" width="80" /><br />
+      <sub>Shadcn</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVrCl_Lpmt7DWX3NLNqv5CdeMkn-idUHulq2GRVfp7e35eTkZ-KDcxwuc4KaH7ZIwkjk&usqp=CAU" width="80" /><br />
+      <sub>Radix</sub>
+    </td>
+  </tr>
+</table>
+
+## 🧩 UI Development Tools
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://static-00.iconduck.com/assets.00/storybook-icon-icon-1645x2048-ir1mrc43.png" width="80" /><br />
+      <sub>Storybook</sub>
+    </td>
+  </tr>
+</table>
+
+## 🧪 Testing
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png" width="80" /><br />
+      <sub>Playwright</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.svgrepo.com/show/373700/jest.svg" width="80" /><br />
+      <sub>Jest</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://endertech.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Ffswbkokbwqb5%2F5EndEac3E7FyAgY2gpS6wU%2F600b44939abdbf67d1edf6f1362a0ed4%2Fimage4.png&w=1920&q=75" width="80" /><br />
+      <sub>Enzyme</sub>
+    </td>
+  </tr>
+</table>
+
+## 📦 State Management
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/?size=100&id=jD-fJzVguBmw&format=png&color=000000" width="80" /><br />
+      <sub>Redux & Toolkit</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKVEgo1P4QtE3Ia_HZZZWYACcokZEUn8BtjI9yMI5BYcx1CQ1KMRKgg8SYyrxd8KBq1U&usqp=CAU" width="80" /><br />
+      <sub>Zustand</sub>
+    </td>
+  </tr>
+</table>
+
+## 🔗 Data Fetching
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="80" /><br />
+      <sub>React Query</sub>
+    </td>
+  </tr>
+</table>
+
 
  <h2 align="center">Reac Native app demo:</h2>
  <p>  ESP32 محاسبات ریاضی  و ارسال عدد به ماژول   </p>
