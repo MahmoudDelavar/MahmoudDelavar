@@ -15,7 +15,7 @@ I specialize in building exceptional digital experiences using modern front-end 
 <div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="Functional Programming" />
+  <img src="https://img.shields.io/badge/Functional%20Programming-000000?style=flat" width="190" height="50" style="object-fit: contain; margin-right: 20px;" alt="Functional Programming" />
   <img src="https://img.shields.io/badge/Design%20Patterns-000000?style=flat" width="130" height="50" style="object-fit: contain;" alt="Design Patterns" />
 </div>
 
