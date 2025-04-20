@@ -10,7 +10,8 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ---
 
-## 🧠 Core Skills
+### 
+🧠 Core Skills
 
 <div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="JavaScript" />
