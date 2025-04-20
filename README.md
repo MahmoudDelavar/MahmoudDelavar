@@ -24,6 +24,8 @@ I specialize in building exceptional digital experiences using modern front-end 
 <div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="130" height="50" style="object-fit: contain; margin-right: 20px;" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" width="130" height="50" style="object-fit: contain;" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Refine-6C47FF?style=flat" width="130" height="50" style="object-fit: contain;" alt="Refine" />
+
 </div>
 
 ## 🌐 API & Data Fetching
@@ -68,7 +70,6 @@ I specialize in building exceptional digital experiences using modern front-end 
 ## 🚀 Frameworks & Platforms
 
 <div align="left" style="display: flex; align-items: center; justify-content: flex-start; margin-bottom: 120px;">
-  <img src="https://img.shields.io/badge/Refine-6C47FF?style=flat" width="130" height="50" style="object-fit: contain;" alt="Refine" />
 </div>
 
 ## 🧩 UI & Styling
@@ -82,7 +83,6 @@ I specialize in building exceptional digital experiences using modern front-end 
 
 ---
 
-> 😎 Always open to learning and building cool stuff!
 
 > 😎 Always open to learning and building cool stuff!
  <h2 align="center">Reac Native app demo:</h2>
